@@ -5,3 +5,5 @@ scipy
 deap
 scikit-learn
 jinja2
+matplotlib
+seaborn
