@@ -1,3 +1,7 @@
 pandas
 openpyxl
 ipykernel
+scipy
+deap
+scikit-learn
+jinja2
